@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+transacoes.db
+.venv/
+venv/
+.env
